@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SmallERP" Class="HRDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=localhost;Initial Catalog=SmallERP;Persist Security Info=True;User ID=sa" SettingsObjectName="SmallERP.Data.Properties.Settings" SettingsPropertyName="SmallERPConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.HR_Department" Member="HR_Departments">
+    <Type Name="HR_Department">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="ParentId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="[Level]" Member="Level" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ManagerId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Created" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HR_JobPosition" Member="HR_JobPositions">
+    <Type Name="HR_JobPosition">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="DepartmentId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="JobDescription" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Created" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HR_Employee" Member="HR_Employees">
+    <Type Name="HR_Employee">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="FirstName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="LastName" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="FullName" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="JobId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DepartmentId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MobilePhone" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="WorkPhone" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Birthday" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="WorkEmail" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="WorkAddress" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="Created" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Gender" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="Marital" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="EmployeeNo" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

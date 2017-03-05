@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="HR">
+  <DataContextMoniker Name="/HRDataContext" />
+  <nestedChildShapes>
+    <classShape Id="089cef48-1752-4f9e-a33c-e09c42af3732" absoluteBounds="0.75, 0.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/HRDataContext/HR_Department" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2c62d9cd-68f2-4512-a35e-8b866302ac03" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="473cbd13-4c42-4bfb-b891-e386923b6c1f" absoluteBounds="3.75, 0.75, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/HRDataContext/HR_JobPosition" />
+      <nestedChildShapes>
+        <elementListCompartment Id="97116a98-4d62-4853-bc54-1689f0643389" absoluteBounds="3.765, 1.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2cbebe71-e983-4955-8c63-4c145fef00bc" absoluteBounds="5.25, 3.75, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/HRDataContext/HR_Employee" />
+      <nestedChildShapes>
+        <elementListCompartment Id="eddb1faf-6143-4689-a489-10807f74e6ff" absoluteBounds="5.265, 4.21, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,4 @@
+﻿6/10/2014 9:03:15 PM----Object[Method] : Log-----Message : HR_EmployeeController-----Source :    at SmallERP.Data.Controllers.HR_EmployeeController.GetEmployees(Int32 employeeId, Int32 departmentId, Int32 jobId, String searchKey) in d:\svn\OutSourcing\SmallERP\SmallERP.Data\Controllers\HR_EmployeeController.cs:line 37
+   at SmallERP.WinApp.View.HR.frmEmployee.LoadEmployees() in d:\svn\OutSourcing\SmallERP\SmallERP.WinApp\View\HR\frmEmployee.cs:line 33
+6/10/2014 9:10:08 PM----Object[Method] : Log-----Message : HR_EmployeeController-----Source :    at SmallERP.Data.Controllers.HR_EmployeeController.GetEmployees(Int32 employeeId, Int32 departmentId, Int32 jobId, String searchKey) in d:\svn\OutSourcing\SmallERP\SmallERP.Data\Controllers\HR_EmployeeController.cs:line 37
+   at SmallERP.WinApp.View.HR.frmEmployee.LoadEmployees() in d:\svn\OutSourcing\SmallERP\SmallERP.WinApp\View\HR\frmEmployee.cs:line 34

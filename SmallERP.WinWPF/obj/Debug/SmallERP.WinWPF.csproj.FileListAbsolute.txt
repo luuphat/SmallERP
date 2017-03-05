@@ -1,0 +1,13 @@
+D:\svn\OutSourcing\SmallERP\SmallERP.WinWPF\bin\Debug\SmallERP.WinWPF.exe.config
+D:\svn\OutSourcing\SmallERP\SmallERP.WinWPF\bin\Debug\SmallERP.WinWPF.exe
+D:\svn\OutSourcing\SmallERP\SmallERP.WinWPF\bin\Debug\SmallERP.WinWPF.pdb
+D:\svn\OutSourcing\SmallERP\SmallERP.WinWPF\obj\Debug\SmallERP.WinWPF.csprojResolveAssemblyReference.cache
+D:\svn\OutSourcing\SmallERP\SmallERP.WinWPF\obj\Debug\MainWindow.baml
+D:\svn\OutSourcing\SmallERP\SmallERP.WinWPF\obj\Debug\MainWindow.g.cs
+D:\svn\OutSourcing\SmallERP\SmallERP.WinWPF\obj\Debug\App.g.cs
+D:\svn\OutSourcing\SmallERP\SmallERP.WinWPF\obj\Debug\SmallERP.WinWPF_MarkupCompile.cache
+D:\svn\OutSourcing\SmallERP\SmallERP.WinWPF\obj\Debug\SmallERP.WinWPF.g.resources
+D:\svn\OutSourcing\SmallERP\SmallERP.WinWPF\obj\Debug\SmallERP.WinWPF.Properties.Resources.resources
+D:\svn\OutSourcing\SmallERP\SmallERP.WinWPF\obj\Debug\SmallERP.WinWPF.csproj.GenerateResource.Cache
+D:\svn\OutSourcing\SmallERP\SmallERP.WinWPF\obj\Debug\SmallERP.WinWPF.exe
+D:\svn\OutSourcing\SmallERP\SmallERP.WinWPF\obj\Debug\SmallERP.WinWPF.pdb

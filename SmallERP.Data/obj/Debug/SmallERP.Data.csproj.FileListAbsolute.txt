@@ -1,0 +1,8 @@
+D:\svn\OutSourcing\SmallERP\SmallERP.Data\bin\Debug\SmallERP.Data.dll.config
+D:\svn\OutSourcing\SmallERP\SmallERP.Data\bin\Debug\SmallERP.Data.dll
+D:\svn\OutSourcing\SmallERP\SmallERP.Data\bin\Debug\SmallERP.Data.pdb
+D:\svn\OutSourcing\SmallERP\SmallERP.Data\bin\Debug\SmallERP.Core.dll
+D:\svn\OutSourcing\SmallERP\SmallERP.Data\bin\Debug\SmallERP.Core.pdb
+D:\svn\OutSourcing\SmallERP\SmallERP.Data\obj\Debug\SmallERP.Data.csprojResolveAssemblyReference.cache
+D:\svn\OutSourcing\SmallERP\SmallERP.Data\obj\Debug\SmallERP.Data.dll
+D:\svn\OutSourcing\SmallERP\SmallERP.Data\obj\Debug\SmallERP.Data.pdb

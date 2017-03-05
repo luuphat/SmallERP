@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.75" name="Core">
+  <DataContextMoniker Name="/CoreDataContext" />
+  <nestedChildShapes>
+    <classShape Id="1b675730-0818-4d5f-b7b5-1b8e6093824c" absoluteBounds="0.75, 0.75, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/CoreDataContext/Core_Company" />
+      <nestedChildShapes>
+        <elementListCompartment Id="475d0ead-5a66-4606-adae-3b7d536aef10" absoluteBounds="0.765, 1.21, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e6c10da3-876c-495e-9b1e-91970ebdd92b" absoluteBounds="3.75, 0.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/CoreDataContext/Core_Store" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b47120df-f717-474f-9c3e-cdfb784f4af1" absoluteBounds="3.765, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="424210bf-9db3-4ad4-987e-e990904a5d50" absoluteBounds="3.75, 3.75, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/CoreDataContext/Core_Country" />
+      <nestedChildShapes>
+        <elementListCompartment Id="01a26573-5200-4d4f-9272-898b4f6853e0" absoluteBounds="3.765, 4.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1154ef39-c9d5-4c1d-ab7e-918d391bef58" absoluteBounds="6.75, 0.75, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/CoreDataContext/Core_Currency" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3677a877-0fd5-4825-9a79-9202d29bb8f6" absoluteBounds="6.765, 1.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8d7cc3e3-75c8-42b4-99e9-192dd48692df" absoluteBounds="0.75, 6.75, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/CoreDataContext/Core_CurrencyRate" />
+      <nestedChildShapes>
+        <elementListCompartment Id="08e975cf-2bc4-4a13-a722-ac0cdddc026d" absoluteBounds="0.765, 7.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
